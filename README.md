@@ -9,4 +9,4 @@ This assignment required me to create a basic HTML webpage using these elements:
   <li>A paragraph</li>
  </ol>
  
- There was also an optional added challenge of adding an ordered list (ol) <strong>and</strong> an unordered list (ul) containing three separate list elements to the web    page.
+ There was also an optional added challenge of adding an ordered list (ol) <strong><u>and</u></strong> an unordered list (ul) containing three separate list elements to the web    page.
